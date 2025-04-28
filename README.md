@@ -1,4 +1,4 @@
-# resumo-do-lab
+# Resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
 
 Aqui vamos configurar uma VM no Microsoft Azure.
@@ -27,13 +27,13 @@ Aqui vamos configurar uma VM no Microsoft Azure.
      5.2. Escolha o disco de armazenamento (SSD ou HDD) e defina o tamanho.
      5.3. Selecionar as portas de entrada. Lembrando que RDP(não recomendado), deixa seu IP aberto a qualquer tipo de acesso na internet.
 
-  7. **Defina as configurações adicionais:**
+  6. **Defina as configurações adicionais:**
      6.1. Revise as configurações de rede e conectividade.
      6.2. Escolha o disco de armazenamento (SSD ou HDD) e defina o tamanho.
 
   8. **Revise e crie:**
-     7.1. Revise todas as configurações escolhidas.
-     7.2. Clique em "Criar" para provisionar a máquina virtual. Esse processo pode levar alguns minutos.
+     8.1. Revise todas as configurações escolhidas.
+     8.2. Clique em "Criar" para provisionar a máquina virtual. Esse processo pode levar alguns minutos.
 
   9. **Acesse sua máquina virtual:**
-     8.1. Após a criação, vá até o painel de máquinas virtuais e conecte-se usando o método de autenticação configurado.
+     9.1. Após a criação, vá até o painel de máquinas virtuais e conecte-se usando o método de autenticação configurado.
